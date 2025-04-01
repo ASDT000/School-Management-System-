@@ -90,7 +90,7 @@ MIT License - See [LICENSE](LICENSE) file for details.
 ## 📬 Contact
 **Developer**: A.S. Dinushka Tharidu  
 **Email**: asdinushkatharidu@gmail.com    
-**LinkedIn**: [Profile Link](www.linkedin.com/in/dinushka-tharidu-b3a1a1253)
+**LinkedIn**: [Profile Link](https://www.linkedin.com/in/dinushka-tharidu-b3a1a1253)
 
 ---
 
