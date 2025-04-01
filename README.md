@@ -89,8 +89,7 @@ MIT License - See [LICENSE](LICENSE) file for details.
 
 ## 📬 Contact
 **Developer**: A.S. Dinushka Tharidu  
-**Email**: asdinushkatharidu@gmail.com  
-**Phone**: +94 710 677 074  
+**Email**: asdinushkatharidu@gmail.com 
 **LinkedIn**: [Profile Link](https://www.linkedin.com/in/a-s-dinushka-tharidu-b3a1a1253)
 
 ---
